@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mkmueller27
 - 👀 I’m interested in coding, data science
-- 🌱 I’m currently learning SAS, intermediate Python, SQL
+- 🌱 I’m currently learning SAS, Python, SQL, R, and C. 
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact:
 
